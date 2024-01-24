@@ -2,9 +2,13 @@
 
 fruits=('mango','banana','orange','graphes')
 
-fruitss=''
+# fruitss=''
 
-for item in fruits:
-    fruitss=fruitss+item + " "
+# for item in fruits:
+#     fruitss=fruitss+item + " "
     
-print(fruitss)
+# print(fruitss)
+
+
+new_fruits= "".join(fruits)
+print(new_fruits)

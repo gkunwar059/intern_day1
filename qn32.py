@@ -7,5 +7,8 @@ d={}
 
 for x in range(1,5):
     d[x]=x*x
+
+# d={x:x*x for x in range(1,5)}
+# print(d)
     
 print(d)

@@ -5,7 +5,7 @@
 # Sample list : [{1,2},{},{}] 
 # Return value : False 
 
-sample_list=[{},{},{}] 
+sample_list=[{2:3},{},{}] 
 
 for item in sample_list:
     item=dict(item)

@@ -4,7 +4,6 @@
 # Sample String : 'restart' 
 # Expected Result : 'resta$t' 
 
-
 def change_character(string1):
     char=string1[0]
     

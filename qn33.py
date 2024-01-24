@@ -11,4 +11,8 @@ d={}
 # between 1 and 15 (both included) and the values are square of keys
 for x in range(1,15):
     d[x]=x**2
+
+# d={x:x*x for x in range(1,15)}
+# print(d)
+
 print(d)

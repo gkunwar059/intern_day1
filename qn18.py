@@ -9,7 +9,5 @@
 #         max_num=item
 # print(max_num)
 
-
-
 list_1=[2,12,4,45,22]
 print("smallest number :",max(list_1))
